@@ -45,7 +45,7 @@ los resultados en la tabla 6.1. Anote los resultados medidos.
 
 4.1 Parámetros Eléctricos del circuito de la figura 6.1
 
-
+![image](https://user-images.githubusercontent.com/117045943/212215526-93c7e6d2-9a64-46ba-959b-8510d5e6fed6.png)
 
 4.2 Respuesta a preguntas planteadas
 
@@ -53,7 +53,7 @@ los resultados en la tabla 6.1. Anote los resultados medidos.
 
 4.3 Calculo de Error
 
-
+![image](https://user-images.githubusercontent.com/117045943/212215585-1e0487b7-aaa9-403a-94bb-8704b8d02102.png)
 
 5. VIDEO
 
