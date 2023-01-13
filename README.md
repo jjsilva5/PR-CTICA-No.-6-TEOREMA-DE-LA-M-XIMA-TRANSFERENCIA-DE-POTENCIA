@@ -8,6 +8,9 @@ Integrantes:
 
 1. OBJETIVOS
 
+- Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
+- Comprobar en forma analítica y gráfica la importancia de la eficiencia.
+- Determinar el valor de la resistencia de carga con la cual se transfiere la potencia máxima desde un circuito dado.
 
 
 2. MARCO TEÓRICO
@@ -59,7 +62,9 @@ los resultados en la tabla 6.1. Anote los resultados medidos.
 
 4.2 Respuesta a preguntas planteadas
 
+![image](https://user-images.githubusercontent.com/117045943/212333429-e87b2fc8-890b-4d35-b1c7-7763de714b52.png)
 
+![image](https://user-images.githubusercontent.com/117045943/212333444-98809cd2-8fc9-43e0-a4cc-e8165d449804.png)
 
 4.3 Calculo de Error
 
@@ -71,7 +76,9 @@ https://youtu.be/ScveWrOLAL0
 
 6. CONCLUSIONES
 
-
+- Es necesario tener conocimientos previos como ley de OHM para realizar los cálculos
+- La potencia máxima de carga es cuando RL=RS 
+- En una gráfica el punto más alto que representa la potencia máxima de carga es representada por las coordenadas (RL, RS)
 
 7. BIBLIOGRAFÍA
 
