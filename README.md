@@ -12,7 +12,17 @@ Integrantes:
 
 2. MARCO TEÓRICO
 
+Marco teórico
+El teorema de transferencia de potencia máxima o máxima transferencia de potencia establece:
+“Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente” (Floyd, 2007)
+En otras palabras, en una fuente de voltaje que se encarga de generar una tensión y corriente sobre el circuito eléctrico siempre se mantiene su resistencia interna “Rs”, por ende este flujo de electrones genera una potencia sobre cada uno de los elementos que componen el circuito. Ahora bien, retomando lo ya aprendido con el teorema de Thévenin sabemos que todo circuito eléctrico puede reducirse a una resistencia y voltaje equivalente con la finalidad de facilitar el análisis de un elemento del circuito, este voltaje y resistencia básicamente se pueden considerar una nueva fuente de suministro siendo la resistencia de Thévenin su resistencia internar y el voltaje la fuerza de carga que pude desplegar hacia un circuito.
 
+![image](https://user-images.githubusercontent.com/117045943/212217845-be4bb535-6d38-4190-a38b-2f346dfda703.png)
+
+Teniendo presente un circuito reducido, podemos apreciar que el componente resistivo a analizar se encuentra en serie con la resistencia interna por lo que la intensidad se mantendrá igual en ambas resistencias, como la potencia individual depende del voltaje en cada elemento y este a su vez de la resistencia del mismo la potencia máxima relacionará ambas variables.
+Por esta razón según el teorema de máxima potencia, dentro de un circuito reducido la potencia máxima del elemento de análisis se dará cuando su valor resistivo sea igual al de la resistencia interna de la fuente expresado matemáticamente: 
+
+![image](https://user-images.githubusercontent.com/117045943/212217900-6f750c06-28a5-4b02-855c-9296acec8c1d.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -57,7 +67,7 @@ los resultados en la tabla 6.1. Anote los resultados medidos.
 
 5. VIDEO
 
-
+https://youtu.be/ScveWrOLAL0
 
 6. CONCLUSIONES
 
