@@ -27,7 +27,7 @@ Integrantes:
 3.3 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 Anote los resultados medidos.
 
-
+![image](https://user-images.githubusercontent.com/117045943/212211312-a72bdac6-ede5-41c3-9401-e3565478987e.png)
 
 3.4 Calcule la potencia consumida por RL, para cada valor dado y anote los
 resultados en la tabla 6.1. 
